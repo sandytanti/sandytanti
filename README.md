@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sandytanti/sandytanti/commit/8e384f019237b05165e41d0af7bc326135ec4a94)
 <h1 align="center">Hi 👋, I'm Sandeep Tanti</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
